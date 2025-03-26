@@ -1,7 +1,7 @@
 # InjectAI App V2
 
 ## Overview
-InjectAI App V2 is a web application built with modern technologies and enhanced using Lovable, an AI-powered platform that simplifies web app development.
+InjectAI App V2 is a web application built with modern technologies, an AI-powered platform that simplifies web app development.
 
 ## Features
 - **AI-Powered UI/UX:** Generates clean and user-friendly designs.
