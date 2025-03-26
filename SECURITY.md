@@ -15,7 +15,7 @@ Please ensure you are using the latest version of the InjectAI application for o
 
 If you discover a security vulnerability, please follow these steps:
 
-1. **Contact Us**: Send an email to [injectai.security@example.com](mailto:injectai.security@example.com) with detailed information about the issue.
+1. **Contact Us**: Send an email with detailed information about the issue.
    - Include the exact steps to reproduce the vulnerability.
    - Provide proof-of-concept or logs to support the report.
 
