@@ -49,7 +49,7 @@ If you're deploying on Netlify but your **logo/favicon isn't updating**, try:
 ## Technologies Used
 - **Frontend:** HTML, Tailwind CSS, JavaScript/TypeScript
 - **Backend:** Node.js (if applicable)
-- **AI Integration:** (
+- **AI Integration:** 
 Mock (without API)
 
 ## License
